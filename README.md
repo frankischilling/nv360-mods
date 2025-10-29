@@ -37,7 +37,8 @@ All mods here are plug-and-play: drop them on the console and enable in **Downlo
 
 | Mod Name | Author | Description | Status |
 |----------|--------|-------------|--------|
-| **MnRKid — ThatModTeam** | ThatModTeam | Adds the Mick and Ralf's kid being crucified (finally he shuts up!). No NVSE, lightweight, and stable for console. | ✅ Working (tested on RGH) |
+| **MnRKid — ThatModTeam** | ThatModTeam | Adds the Mick and Ralf's kid being crucified (finally he shuts up!). No NVSE, lightweight, and stable for console. | ✅ Working (tested on RGH 3) |
+| **Casino UnBanner** | ImpOfThePerverseMods | Adds an item to set casino ban memory duration (e.g., 0 days) so you can resume gambling immediately after being banned. No NVSE. | ✅ Working (tested on RGH 3) |
 
 More mods will be added as they are successfully converted and tested.
 
@@ -45,9 +46,23 @@ More mods will be added as they are successfully converted and tested.
 
 ## In-Game Screenshots
 
-![MnRKid screenshot 1](ingame-screenshots/IMG_6993.jpeg)
+### MnRKid — ThatModTeam
 
-![MnRKid screenshot 2](ingame-screenshots/IMG_6996.jpeg)
+![Cross Kid 1](ingame-screenshots/cross-kid/IMG_6993.jpeg)
+
+![Cross Kid 2](ingame-screenshots/cross-kid/IMG_6996.jpeg)
+
+### Casino UnBanner
+
+![Banned at casino](ingame-screenshots/casino-unbanner/banned.jpeg)
+
+![Setting counter to 0 days](ingame-screenshots/casino-unbanner/counter-0.jpeg)
+
+![Adjusting counter down](ingame-screenshots/casino-unbanner/moving-day-counter-down.jpeg)
+
+![Casino has forgotten ban](ingame-screenshots/casino-unbanner/forgotten.jpeg)
+
+![Able to gamble again](ingame-screenshots/casino-unbanner/able-to-gamble.jpeg)
 
 ---
 
@@ -110,8 +125,11 @@ https://www.nexusmods.com/skyrim/mods/32075
 
 nv360-mods/
 ├── mods/                 # Ready-to-install .LIVE packages
-│     └── MnRKid-thatmodteam.LIVE
-├── ingame-screenshots/   # In-game previews
+│     ├── MnRKid-thatmodteam.LIVE
+│     └── Casino-UnBanner.LIVE
+├── ingame-screenshots/   # In-game previews (organized per mod)
+│     ├── cross-kid/
+│     └── casino-unbanner/
 ├── tut/                  # Le Fluffie step-by-step screenshots
 ├── tools/
 │     └── LeFluffie-link.txt   # mirrors/notes if needed
