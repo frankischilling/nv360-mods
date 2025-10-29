@@ -37,7 +37,7 @@ All mods here are plug-and-play: drop them on the console and enable in **Downlo
 
 | Mod Name | Author | Description | Status |
 |----------|--------|-------------|--------|
-| **MnRKid — ThatModTeam** | ThatModTeam | Adds the Mick and Ralf's kid being crucified (finally he shuts up!). No NVSE, lightweight, and stable for console. | ✅ Working (tested on RGH 3) |
+| **Mick and Ralphs Kid Crucified** | ThatModTeam | Adds the Mick and Ralf's kid being crucified (finally he shuts up!). No NVSE, lightweight, and stable for console. | ✅ Working (tested on RGH 3) |
 | **Casino UnBanner** | ImpOfThePerverseMods | Adds an item to set casino ban memory duration (e.g., 0 days) so you can resume gambling immediately after being banned. No NVSE. | ✅ Working (tested on RGH 3) |
 
 More mods will be added as they are successfully converted and tested.
