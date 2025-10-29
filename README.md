@@ -43,6 +43,14 @@ More mods will be added as they are successfully converted and tested.
 
 ---
 
+## In-Game Screenshots
+
+![MnRKid screenshot 1](ingame-screenshots/IMG_6993.jpeg)
+
+![MnRKid screenshot 2](ingame-screenshots/IMG_6996.jpeg)
+
+---
+
 ## Tools & Downloads
 
 - **Le Fluffie (STFS/Marketplace packager)** — used to build `.LIVE` DLC packages  
@@ -52,6 +60,34 @@ More mods will be added as they are successfully converted and tested.
 *(Optional, for audio mods)*  
 - **WAV → XMA/XWM converter** (if a mod includes `.wav` sounds)  
 https://www.nexusmods.com/skyrim/mods/32075
+
+---
+
+## Visual Tutorial (Le Fluffie → STFS → Marketplace)
+
+1. Open Le Fluffie and select STFS
+
+![STFS selection](tut/sfts.png)
+
+2. Choose Marketplace content type
+
+![Marketplace selection](tut/marketplace.png)
+
+3. Add your mod files
+
+![Add files](tut/addfiles.png)
+
+4. Set Title ID to 425307E0
+
+![Title ID](tut/titleid.png)
+
+5. Security → Sign for Dev Live
+
+![Dev Live](tut/devlive.png)
+
+6. Confirm signature completed
+
+![Sign for Dev Live confirmation](tut/signfordevlive.png)
 
 ---
 
@@ -75,7 +111,8 @@ https://www.nexusmods.com/skyrim/mods/32075
 nv360-mods/
 ├── mods/                 # Ready-to-install .LIVE packages
 │     └── MnRKid-thatmodteam.LIVE
-├── screenshots/          # In-game previews
+├── ingame-screenshots/   # In-game previews
+├── tut/                  # Le Fluffie step-by-step screenshots
 ├── tools/
 │     └── LeFluffie-link.txt   # mirrors/notes if needed
 └── README.md
