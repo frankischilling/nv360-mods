@@ -46,7 +46,7 @@ More mods will be added as they are successfully converted and tested.
 
 ## In-Game Screenshots
 
-### MnRKid — ThatModTeam
+### Mick and Ralphs Kid Crucified
 
 ![Cross Kid 1](ingame-screenshots/cross-kid/IMG_6993.jpeg)
 
