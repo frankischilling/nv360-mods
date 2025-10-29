@@ -161,5 +161,3 @@ You can also request NVSE-free Nexus mods to be converted.
 ---
 
 Maintained by **@frankischilling**
-
-If you want, I can also drop a tiny `tools/LeFluffie-link.txt` snippet you can commit alongside the README.
